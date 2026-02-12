@@ -1,16 +1,22 @@
-## Hi there 👋
+# Josué Lemos Mesquita
 
-<!--
-**josuelemoos/josuelemoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação na Universidade Federal do Ceará
 
-Here are some ideas to get you started:
+## Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Talking-to-the-Author](https://github.com/josuelemoos/Talking-to-the-Author)**  
+Chatbot de IA que permite conversar com autores baseado em seus livros
+
+**[Book-Shelf-with-Notion-API](https://github.com/josuelemoos/Book-Shelf-with-Notion-API)**  
+Catálogo de livros integrado com Notion API para registrar leituras, tags e reviews via terminal
+
+**[RPG_in_Python](https://github.com/josuelemoos/RPG_in_Python)**  
+RPG desenvolvido para estudo de Python, matemática e game design
+
+## Tecnologias
+
+Python · API Integration · AI/ML · Game Development
+
+---
+
+[![GitHub](https://img.shields.io/github/followers/josuelemoos?style=social)](https://github.com/josuelemoos)
