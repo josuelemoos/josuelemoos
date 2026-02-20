@@ -13,33 +13,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 </div>
 
 ## 💼 Projetos em Destaque
 
 ```python
-# Talking-to-the-Author
-```
-🤖 Chatbot de IA que permite conversar com autores baseado em seus livros  
-**Stack:** Python, AI/ML, NLP
-
-```python
-# Book-Shelf-with-Notion-API
-```
-📚 Catálogo de livros integrado com Notion API para registrar leituras, tags e reviews via terminal  
-**Stack:** Python, Notion API, REST
-
-```python
-# RPG_in_Python
-```
-🎮 RPG desenvolvido para estudo de Python, matemática e game design  
-**Stack:** Python, Game Development
-
----
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/github/followers/josuelemoos?style=social)](https://github.com/josuelemoos)
-
-</div>
+# Gerenciamento de Clínica Médica (Microsserviços)
