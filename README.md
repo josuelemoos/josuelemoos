@@ -1,42 +1,32 @@
-<div align="center">
-
 # Josué Lemos Mesquita
 
-**Estudante de Ciência da Computação** | Universidade Federal do Ceará
+Computer Science student at Universidade Federal do Ceará.
 
-</div>
+---
 
-## 🚀 Tecnologias
+### Tech
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+---
 
-</div>
+### Projects
 
-## 💼 Projetos em Destaque
+**[Talking-to-the-Author](https://github.com/josuelemos/talking-to-the-author)**
+AI chatbot that lets you converse with authors based on their books — Python · NLP
 
-```python
-# Talking-to-the-Author
-```
-🤖 Chatbot de IA que permite conversar com autores baseado em seus livros  
-**Stack:** Python, AI/ML, NLP
+**[Book-Shelf-with-Notion-API](https://github.com/josuelemos/book-shelf-with-notion-api)**
+Terminal-based book catalog integrated with Notion API for tracking reads, tags and reviews — Python · REST
 
-```python
-# Book-Shelf-with-Notion-API
-```
-📚 Catálogo de livros integrado com Notion API para registrar leituras, tags e reviews via terminal  
-**Stack:** Python, Notion API, REST
+**[RPG in Python](https://github.com/josuelemos/rpg-in-python)**
+Turn-based RPG built to study Python, math and game design — Python
 
-```python
-# RPG_in_Python
-```
-🎮 RPG desenvolvido para estudo de Python, matemática e game design  
-**Stack:** Python, Game Development
+**[Clinic Management System](https://github.com/josuelemos/clinic-management)**
+Distributed microservices architecture for medical clinic management — Java · Spring Boot
 
-```python
-# Gerenciamento de Clínica Médica (Microsserviços)
-```
-🏥 Sistema distribuído em arquitetura de microsserviços para o gerenciamento de uma clínica médica.
+---
+
+<sub>📫 josuemesquita29@gmail.com</sub>
