@@ -5,12 +5,16 @@
 ### Computer Science Student | Full Stack Developer
 University Federal do Ceará
 
-<img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="120"/>
+<img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="120"/> 
+
 
 </div>
 
+<div align="center">
 
 ## About
+
+</div>
 
 **Computer Science** student at **UFC** interested in
 
@@ -19,14 +23,9 @@ University Federal do Ceará
 - web development
 - software architecture
 
-Also an **artist and drawing instructor** exploring the intersection between **creativity and technology**. in my free time i love to read, learn new things, and also code. Feel free to check some of my projects!
+Also an **artist and drawing instructor** exploring the intersection between **creativity and technology**. in my free time i love to read, learn new things, and code. Feel free to check some of my projects. **welcome!**
 
----
-
-## Stack
-
-<div align="center">
-
+<div align=center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
@@ -37,10 +36,6 @@ Also an **artist and drawing instructor** exploring the intersection between **c
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-
-</div>
-
----
 
 ## GitHub
 
