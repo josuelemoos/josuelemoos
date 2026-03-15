@@ -5,7 +5,7 @@
 ### Computer Science Student | Full Stack Developer
 University Federal do Ceará
 
-<img src="https://media.tenor.com/7K9XK3k4F1UAAAAi/tux-linux.gif" width="120"/>
+<img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="120"/>
 
 </div>
 
