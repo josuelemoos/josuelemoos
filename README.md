@@ -25,19 +25,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🤖 **[Talking-to-the-Author](https://github.com/josuelemoos/Talking-to-the-Author)** | AI chatbot that lets you talk with authors based on their books | Python, AI/ML, NLP |
-| 📚 **[Book-Shelf-with-Notion-API](https://github.com/josuelemoos/Book-Shelf-with-Notion-API)** | Book catalog integrated with Notion API for logging reads, tags and reviews | Python, Notion API, REST |
-| 🎮 **[RPG_in_Python](https://github.com/josuelemoos/RPG_in_Python)** | RPG developed to study Python, math and game design | Python, Game Development |
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
