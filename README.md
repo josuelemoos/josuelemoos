@@ -43,8 +43,6 @@
 
 <div align="center">
 
-![Josué's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuelemoos&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuelemoos&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josuelemoos&theme=tokyonight&hide_border=true)
