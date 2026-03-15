@@ -66,7 +66,7 @@
 
 <div align="center">
 
-*"Learning, building, and sharing knowledge every day"*
+*"Coding is an act of creating, and i am a creating lover"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=josuelemoos&color=blueviolet&style=flat-square)
 
