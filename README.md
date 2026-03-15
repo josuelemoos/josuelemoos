@@ -1,49 +1,54 @@
 <div align="center">
 
-# Hi, I'm Josué Lemos Mesquita 👋
+# Hi, I'm Josué Lemos Mesquita <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
 ### Computer Science Student | Full Stack Developer
+University Federal do Ceará
 
-*Universidade Federal do Ceará*
+<img src="https://media.tenor.com/7K9XK3k4F1UAAAAi/tux-linux.gif" width="120"/>
+
+</div>
+
+
+## About
+
+**Computer Science** student at **UFC** interested in
+
+- backend systems
+- distributed systems
+- web development
+- software architecture
+
+Also an **artist and drawing instructor** exploring the intersection between **creativity and technology**. in my free time i love to read, learn new things, and also code. Feel free to check some of my projects!
+
+---
+
+## Stack
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 
 </div>
 
 ---
 
-## 🚀 Languages and Tools I Use
+## GitHub
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=josuelemoos&show_icons=true&theme=tokyonight&hide_border=true)
 
-</div>
-
----
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuelemoos&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josuelemoos&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📫 Where to find me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josuelemoos)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josuelemoos&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -51,8 +56,6 @@
 
 <div align="center">
 
-*"Coding is an act of creating, and i am a creating lover"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=josuelemoos&color=blueviolet&style=flat-square)
+[LinkedIn](https://linkedin.com) • [GitHub](https://github.com/josuelemoos)
 
 </div>
