@@ -2,7 +2,7 @@
 
 # Hi, I'm Josué Lemos Mesquita <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
-### Computer Science Student | Full Stack Developer
+### Computer Science Student | Backend Developer
 University Federal do Ceará
 
 <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="120"/> 
